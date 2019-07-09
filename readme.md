@@ -64,7 +64,8 @@ Below are examples of images from these two different datasets.
 *.jpg              
 
 # Data Preprocessing
-* Normalization from [0,255] into [0,1]* Writing the raw data into numpy.darray format.
+* Normalization from [0,255] into [0,1]
+* Writing the raw data into numpy.darray format.
 * Cropping each image into specific size.
 * Transforming RGB images into Gray images.
 
