@@ -69,12 +69,11 @@ Below are examples of images from these two different datasets.
 
 # Architecture of Neural Networks
 
-For the task of traffic light detection, we adopt [U-Net](https://arxiv.org/abs/1505.04597).
+For the task of traffic light detection, we adopt a customized Convolutional Neural Network.
 
 As our input image has been resize and grayed into (W,H,C) = (32,64,1). Thereby, the neural network becomes:
 
 ![](//live.staticflickr.com/65535/48235939971_f0e84f8a8f_b.jpg)
-![](//live.staticflickr.com/65535/48236019627_469a11b48e_b.jpg)
 
 # Result
 
